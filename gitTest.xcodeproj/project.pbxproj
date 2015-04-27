@@ -14,6 +14,7 @@
 		AEAF6BF31AEE34AB00F9799A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AEAF6BF21AEE34AB00F9799A /* Images.xcassets */; };
 		AEAF6BF61AEE34AB00F9799A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = AEAF6BF41AEE34AB00F9799A /* LaunchScreen.xib */; };
 		AEAF6C021AEE34AB00F9799A /* gitTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = AEAF6C011AEE34AB00F9799A /* gitTestTests.m */; };
+		AEAF6C0D1AEE3D5500F9799A /* MapForItenerary.m in Sources */ = {isa = PBXBuildFile; fileRef = AEAF6C0C1AEE3D5500F9799A /* MapForItenerary.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		AEAF6BFB1AEE34AB00F9799A /* gitTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = gitTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AEAF6C001AEE34AB00F9799A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AEAF6C011AEE34AB00F9799A /* gitTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = gitTestTests.m; sourceTree = "<group>"; };
+		AEAF6C0B1AEE3D5500F9799A /* MapForItenerary.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MapForItenerary.h; sourceTree = "<group>"; };
+		AEAF6C0C1AEE3D5500F9799A /* MapForItenerary.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MapForItenerary.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +88,8 @@
 				AEAF6BEA1AEE34AB00F9799A /* AppDelegate.m */,
 				AEAF6BEC1AEE34AB00F9799A /* ViewController.h */,
 				AEAF6BED1AEE34AB00F9799A /* ViewController.m */,
+				AEAF6C0B1AEE3D5500F9799A /* MapForItenerary.h */,
+				AEAF6C0C1AEE3D5500F9799A /* MapForItenerary.m */,
 				AEAF6BEF1AEE34AB00F9799A /* Main.storyboard */,
 				AEAF6BF21AEE34AB00F9799A /* Images.xcassets */,
 				AEAF6BF41AEE34AB00F9799A /* LaunchScreen.xib */,
@@ -219,6 +224,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AEAF6C0D1AEE3D5500F9799A /* MapForItenerary.m in Sources */,
 				AEAF6BEE1AEE34AB00F9799A /* ViewController.m in Sources */,
 				AEAF6BEB1AEE34AB00F9799A /* AppDelegate.m in Sources */,
 				AEAF6BE81AEE34AB00F9799A /* main.m in Sources */,
